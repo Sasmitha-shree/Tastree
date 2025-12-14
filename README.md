@@ -1,15 +1,20 @@
-🚀 Features:
+# 🌿 Tastree – Recipe & Food Discovery App
 
-🍛 Browse recipes with images and ingredients
+## Project Overview
+Tastree is a modern recipe discovery web application built using React.  
+It allows users to explore recipes, view detailed cooking instructions, save favorite dishes, and track completed recipes — all in one place.
 
-✔️ Mark recipes as Completed
+The app uses client-side routing and **localStorage** to provide a smooth and persistent user experience.
 
-❤️ Add to Favorites
+---
 
-🔍 Search & filter (Cuisine, Difficulty, Cook Time)
-
-👤 Simple Login (stored in localStorage)
-
-📄 Recipe detail pages with step-by-step instructions
-
-🎨 Fully responsive UI
+## Features
+-  Home page with recipe highlights.
+-  Browse all recipes.
+-  View detailed recipe information.
+-  Add recipes to Favorites.
+-  Mark recipes as Completed.
+-  Login & Sign Up pages.
+-  Data persistence using localStorage.
+-  Redirect handling for invalid routes.
+-  Responsive UI.
